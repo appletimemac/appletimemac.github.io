@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9QH3QR8RS5.com.RRGS.Project77"],
+        "components": [
+          {
+            "/": "/pair",
+            "comment": "Gryffindor child-device pairing links. The code rides the URL fragment and never reaches this server."
+          }
+        ]
+      }
+    ]
+  }
+}
