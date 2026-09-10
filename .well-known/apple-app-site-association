@@ -2,7 +2,10 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["9QH3QR8RS5.com.RRGS.Project77"],
+        "appIDs": [
+          "6SD7AF9K8B.com.RRGS.Project77",
+          "9QH3QR8RS5.com.RRGS.Project77"
+        ],
         "components": [
           {
             "/": "/pair",
